@@ -1,0 +1,3 @@
+id,name,date_added,age,gender,hypertension,heart_disease,marital_status,work_type,residence,glucose,bmi,smoking,risk_score,risk_level
+1001,Test Patient,2026-08-20 14:21,65.0,Male,Yes,Yes,Married,Private,Urban,200.0,30.0,smokes,88.13,High
+1003,Akasha Zaman,2026-08-20 14:28,10.0,Male,No,No,No,Self-employed,Urban,104.0,17.1,never smoked,0.65,Low
